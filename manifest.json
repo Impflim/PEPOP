@@ -2,11 +2,11 @@
 // it contains basic information about your pack
 // for more info on the manifest check: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#manifest
 {
-    "name": "PE 0.1 tracker short",
+    "name": "PE 0.1 Tracker Alpha",
     "game_name": "<Parasite Eve>",
     "package_version": "0.0.0.1",
     "package_uid": "parasiteeve_pack",
-    "platform": "ps1", //enables SNES memory autotracking interface - remove/change if not needed
+    "platform": "ps1",
     "author": "Inflim",
     "variants": {
         "standard": {
