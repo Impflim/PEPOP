@@ -1,0 +1,164 @@
+//more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+[
+  
+    // Carnegie Hall
+    {
+      "name": "Theater Key",
+      "type": "toggle",
+      "img": "/images/items/hall/theater_key.png",
+      "codes": "theater_key"
+    },
+    {
+      "name": "Rehearse Key",
+      "type": "toggle",
+      "img": "/images/items/hall/rehearse_key.png",
+      "codes": "rehearse_key"
+    },
+    
+    // NYPD
+    {
+      "name": "Locker Key",
+      "type": "toggle",
+      "img": "/images/items/nypd/locker_key.png",
+      "codes": "locker_key"
+    },
+    {
+      "name": "Storage Key",
+      "type": "toggle",
+      "img": "/images/items/nypd/storage_key.png",
+      "codes": "storage_key"
+    },
+    {
+      "name": "Super Junk",
+      "type": "toggle",
+      "img": "/images/items/nypd/super_junk.png",
+      "codes": "super_junk"
+    },
+    {
+      "name": "Twelve Cards",
+      "type": "toggle",
+      "img": "/images/items/nypd/cards_12.png",
+      "codes": "cards_12"
+    },
+    {
+      "name": "Fourteen Cards",
+      "type": "toggle",
+      "img": "/images/items/nypd/cards_14.png",
+      "codes": "cards_14"
+    },
+    {
+      "name": "Fixed Chest",
+      "type": "toggle",
+      "img": "/images/items/soho/weapon_memo.png",
+      "codes": "chest_fixed"
+    },
+    // Central Park
+    {
+      "name": "Zoo Key",
+      "type": "toggle",
+      "img": "/images/items/park/zoo_key.png",
+      "codes": "zoo_key"
+    },
+  
+    // Soho
+    {
+      "name": "Weapon Memo",
+      "type": "toggle",
+      "img": "/images/items/soho/weapon_memo.png",
+      "codes": "weapon_memo"
+    },
+  
+    // Hospital
+    {
+      "name": "Autopsy Key",
+      "type": "toggle",
+      "img": "/images/items/hospital/autopsy_key.png",
+      "codes": "autopsy_key"
+    },
+    {
+      "name": "Blue Card Key",
+      "type": "toggle",
+      "img": "/images/items/hospital/blue_card_key.png",
+      "codes": "blue_card_key"
+    },
+    {
+      "name": "Fuse1",
+      "type": "toggle",
+      "img": "/images/items/hospital/fuse_1.png",
+      "codes": "fuse_1"
+    },
+    {
+      "name": "Fuse2",
+      "type": "toggle",
+      "img": "/images/items/hospital/fuse_2.png",
+      "codes": "fuse_2"
+    },
+    {
+      "name": "Fuse3",
+      "type": "toggle",
+      "img": "/images/items/hospital/fuse_3.png",
+      "codes": "fuse_3"
+    },
+    {
+      "name": "Green Card Key",
+      "type": "toggle",
+      "img": "/images/items/hospital/green_card_key.png",
+      "codes": "green_card_key"
+    },
+    {
+      "name": "Elevator Key",
+      "type": "toggle",
+      "img": "/images/items/hospital/elevator_key.png",
+      "codes": "elevator_key"
+    },
+  
+    // Chinatown/Subway
+    {
+      "name": "Pump Key",
+      "type": "toggle",
+      "img": "/images/items/china/pump_key.png",
+      "codes": "pump_key"
+    },
+    {
+      "name": "Gate Key",
+      "type": "toggle",
+      "img": "/images/items/china/gate_key.png",
+      "codes": "gate_key"
+    },
+    
+  
+    // Museum
+    {
+      "name": "Klamp Key",
+      "type": "toggle",
+      "img": "/images/items/museum/klamp_key.png",
+      "codes": "klamp_key"
+    },
+    {
+      "name": "Narita",
+      "type": "toggle",
+      "img": "/images/items/museum/narita.png",
+      "codes": "narita"
+    },
+    {
+      "name": "Mayoke",
+      "type": "toggle",
+      "img": "/images/items/museum/mayoke.png",
+      "codes": "mayoke"
+    },
+    {
+      "name": "Hamaya",
+      "type": "toggle",
+      "img": "/images/items/museum/hamaya.png",
+      "codes": "hamaya"
+    },
+    
+  
+    // Warehouse
+    {
+      "name": "Warehouse Key",
+      "type": "toggle",
+      "img": "/images/items/warehouse/warehouse_key.png",
+      "codes": "warehouse_key"
+    }
+  ]

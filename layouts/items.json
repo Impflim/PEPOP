@@ -1,0 +1,255 @@
+// sets layouts for shadred items grids
+// bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
+{
+    "hall_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "theater_key",
+                                "rehearse_key"        
+                            ],
+                            [
+                                
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "nypd_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "locker_key",
+                                "storage_key"      
+                            ],
+                            [
+                                "super_junk",
+                                "chest_fixed"
+                            ],
+                            [
+                                "cards_12",
+                                "cards_14"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "park_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "zoo_key"
+                                    
+                            ],
+                            [
+                                
+                            ],
+                            [
+                                
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "soho_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "weapon_memo"     
+                            ],
+                            [
+                                
+                            ],
+                            [
+                                
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "hospital_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "autopsy_key",
+                                "blue_card_key"      
+                            ],
+                            [
+                                "fuse_1",
+                                "fuse_2"
+                            ],
+                            [
+                                "fuse_3",
+                                "green_card_key"
+                            ],
+                            [
+                                "elevator_key"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "china_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "pump_key",
+                                "gate_key"      
+                            ],
+                            [
+                                
+                            ],
+                            [
+                                
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "museum_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "klamp_key",
+                                "narita"      
+                            ],
+                            [
+                                "mayoke",
+                                "hamaya"
+                            ],
+                            [
+                                
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "warehouse_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "warehouse_key"      
+                            ],
+                            [
+                                
+                            ],
+                            [
+                               
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

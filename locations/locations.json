@@ -1,0 +1,2762 @@
+[
+    {
+        "name": "Hall Floor 1",
+        "children": [
+            {
+                "name": "Backstage",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hall_floor1",
+                        "x": 279,
+                        "y": 89
+                    }
+                ]
+            }      
+        ]
+    },
+    {
+        "name": "Hall Basement",
+        "children": [
+            {
+                "name": "Prop room",
+                "access_rules": [
+                        "theater_key"                
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hidden Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rat Cabinet",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hall_basement",
+                        "x": 247,
+                        "y": 341
+                    }
+                ]
+            },
+            {
+                "name": "Theater Storage",
+                "access_rules": [
+                        "theater_key"             
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hall_basement",
+                        "x": 345,
+                        "y": 399
+                    }
+                ]
+            },
+            {
+                "name": "Dressing room Corpses",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Locker",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hall_basement",
+                        "x": 247,
+                        "y": 287
+                    }
+                ]
+            },
+            {
+                "name": "Clown Dressing room",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Locker",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hall_basement",
+                        "x": 347,
+                        "y": 287
+                    }
+                ]
+            },
+            {
+                "name": "Main Dressing room",
+                "access_rules": [
+                    "theater_key"      
+                ],
+                "sections": [
+                    {
+                        "name": "Diary",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Closet",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hall_basement",
+                        "x": 247,
+                        "y": 233
+                    }
+                ]
+            },
+            {
+                "name": "Parrot Room",
+                "access_rules": [
+                    "theater_key"             
+                ],
+                "sections": [
+                    {
+                        "name": "Closet",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hall_basement",
+                        "x": 347,
+                        "y": 233
+                    }
+                ]
+            },
+            {
+                "name": "Office",
+                "access_rules": [
+                          
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Corpse",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hall_basement",
+                        "x": 247,
+                        "y": 174
+                    }
+                ]
+            }         
+        ]
+    },
+    {
+        "name": "Hall Sewer",
+        "children": [
+            {
+                "name": "Stairways",
+                "access_rules": [
+                    "rehearse_key"                
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hall_sewer",
+                        "x": 307,
+                        "y": 201
+                    }
+                ]
+            },
+            {
+                "name": "Large Room",
+                "access_rules": [
+                    "rehearse_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Top left chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Top right chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bottom left chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hall_sewer",
+                        "x": 307,
+                        "y": 125
+                    }
+                ]
+            },
+            {
+                "name": "Hidden Room",
+                "access_rules": [
+                    "rehearse_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Left chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Middle chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hidden chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hall_sewer",
+                        "x": 357,
+                        "y": 95
+                    }
+                ]
+            },
+            {
+                "name": "Gator Room",
+                "access_rules": [
+                    "rehearse_key"                
+                ],
+                "sections": [
+                    {
+                        "name": "Gator",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hall_sewer",
+                        "x": 206,
+                        "y": 95
+                    }
+                ]
+            }     
+        ]
+    },
+    {
+        "name": "NYPD Floor 1",
+        "children": [
+            {
+                "name": "Baker's Office",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Baker",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NYPD_floor1",
+                        "x": 170,
+                        "y": 241
+                    }
+                ]
+            },
+            {
+                "name": "Main Office",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Warner",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Super_Junk"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NYPD_floor1",
+                        "x": 143,
+                        "y": 291
+                    }
+                ]
+            },
+            {
+                "name": "Locker Room",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Top Left Locker (Before attack)",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Top Right Locker (Before attack)",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Top Left Locker (During attack)",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Super_Junk"
+                        ]
+                    },
+                    {
+                        "name": "Top Right Locker (During attack)",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Super_Junk"
+                        ]
+                    },
+                    {
+                        "name": "Left Locker",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Locker_Key"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NYPD_floor1",
+                        "x": 228,
+                        "y": 241
+                    }
+                ]
+            },
+            {
+            "name": "Reception",
+            "access_rules": [
+                "Super_Junk"           
+            ],
+            "sections": [
+                {
+                    "name": "Maeda",
+                    "item_count": 1
+                }
+            ],
+            "map_locations": [
+                {
+                    "map": "NYPD_floor1",
+                    "x": 263,
+                    "y": 341
+                }
+            ]
+            },
+            {
+                "name": "Meeting Room",
+                "access_rules": [
+                               
+                ],
+                "sections": [
+                    {
+                        "name": "Baker",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Super_junk"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NYPD_floor1",
+                        "x": 368,
+                        "y": 341
+                    }
+                ]
+            },
+            {
+                "name": "Armory",
+                "access_rules": [
+                                            
+                ],
+                "sections": [
+                    {
+                        "name": "Torres",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wayne",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Super_Junk"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NYPD_floor1",
+                        "x": 228,
+                        "y": 142
+                    }
+                ]
+            },
+            {
+                "name": "Kennel",
+                "access_rules": [
+                                            
+                ],
+                "sections": [
+                    {
+                        "name": "Cathy",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Super_Junk"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NYPD_floor1",
+                        "x": 318,
+                        "y": 142
+                    }
+                ]
+            },
+            {
+                "name": "Storage Room",
+                "access_rules": [
+                    "storage_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Left Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Center Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NYPD_floor1",
+                        "x": 426,
+                        "y": 192
+                    }
+                ]
+            },
+            {
+                "name": "Locker Room",
+                "access_rules": [
+                    "super_junk"
+                ],
+                "sections": [
+                    {
+                        "name": "Cop",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nix",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NYPD_floor1",
+                        "x": 298,
+                        "y": 291
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "NYPD Floor 2",
+        "access_rules": [
+            "super_junk"
+        ],
+        "children": [
+            {
+                "name": "Hallway",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Cop",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NYPD_floor2",
+                        "x": 273,
+                        "y": 327
+                    }
+                ]
+            },
+            {
+                "name": "Cells",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Left Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NYPD_floor2",
+                        "x": 331,
+                        "y": 452
+                    }
+                ]
+            },
+            {
+                "name": "Interigation Room",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Table",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NYPD_floor2",
+                        "x": 203,
+                        "y": 409
+                    }
+                ]
+            },
+            {
+                "name": "Office",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Desk Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Floor Chest",
+                        "item_count": 1,
+                        "visibility_rules":[
+                            "chest_fixed"
+                        ]
+                        
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NYPD_floor2",
+                        "x": 17,
+                        "y": 469
+                    }
+                ]
+            },
+            {
+                "name": "Medical",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Daniel",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NYPD_floor2",
+                        "x": 203,
+                        "y": 259
+                    }
+                ]
+            },
+            {
+                "name": "Corridor",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Cop gift",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NYPD_floor2",
+                        "x": 145,
+                        "y": 192
+                    }
+                ]
+            },
+            {
+                "name": "2F Storage",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wolf Drop",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Backroom Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NYPD_floor2",
+                        "x": 145,
+                        "y": 68
+                    }
+                ]
+            },
+            {
+                "name": "Boss room",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Sheeva",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NYPD_floor2",
+                        "x": 413,
+                        "y": 16
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Park Entrance",
+        "children": [
+            {
+                "name": "Entrance",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Behind Car",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In Trees",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Park_Entrance",
+                        "x": 207,
+                        "y": 424
+                    }
+                ]
+            },
+            {
+                "name": "Gates",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Under Gate Left",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Under Gate Right",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Park_Entrance",
+                        "x": 284,
+                        "y": 284
+                    }
+                ]
+            },
+            {
+                "name": "Courtyard Bottom",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Near Bench",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Park_Entrance",
+                        "x": 311,
+                        "y": 234
+                    }
+                ]
+            },
+            {
+                "name": "Courtyard Top",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Near Bench",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Park_Entrance",
+                        "x": 311,
+                        "y": 180
+                    }
+                ]
+            },
+            {
+                "name": "Back Courtyard",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Park_Entrance",
+                        "x": 284,
+                        "y": 130
+                    }
+                ]
+            },
+            {
+                "name": "Medical Room",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Drawer",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cupboard",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cabinet",
+                        "item_count": 1,
+                        "access_rules": [
+                            "zoo_key"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Park_Entrance",
+                        "x": 184,
+                        "y": 199
+                    }
+                ]
+            },
+            {
+                "name": "Atrium",
+                "access_rules": [
+                    "zoo_key"                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Top Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bottom Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Park_Entrance",
+                        "x": 184,
+                        "y": 130
+                    }
+                ]
+            },
+            {
+                "name": "Figure Eight",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Left Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Park_Entrance",
+                        "x": 389,
+                        "y": 81
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Park Back",
+        "access_rules": [
+            "zoo_key"
+        ],
+        "children": [
+            {
+                "name": "Gazebo",
+                "access_rules": [
+                    
+                ],
+                "sections": [
+                    {
+                        "name": "Visable Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hidden Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Park_Back",
+                        "x": 366,
+                        "y": 297
+                    }
+                ]
+            },
+            {
+                "name": "Behind Gazebo",
+                "access_rules": [
+                    
+                ],
+                "sections": [
+                    {
+                        "name": "Save Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Park_Back",
+                        "x": 366,
+                        "y": 247
+                    }
+                ]
+            },
+            {
+                "name": "Forest Maze East",
+                "access_rules": [
+                    
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Park_Back",
+                        "x": 339,
+                        "y": 378
+                    }
+                ]
+            },
+            {
+                "name": "Forest Maze Bridge",
+                "access_rules": [
+                    
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Park_Back",
+                        "x": 289,
+                        "y": 405
+                    }
+                ]
+            },
+            {
+                "name": "Forest Maze Dock",
+                "access_rules": [
+                    
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Park_Back",
+                        "x": 239,
+                        "y": 405
+                    }
+                ]
+            },
+            {
+                "name": "Forest Maze SE",
+                "access_rules": [
+                    
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Park_Back",
+                        "x": 189,
+                        "y": 405
+                    }
+                ]
+            },
+            {
+                "name": "Arch",
+                "access_rules": [
+                    
+                ],
+                "sections": [
+                    {
+                        "name": "Left Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Park_Back",
+                        "x": 39,
+                        "y": 352
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SoHo",
+        "access_rules": [
+            "Zoo_key"
+        ],
+        "children": [
+            {
+                "name": "Apartment",
+                "access_rules": [
+                    
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SoHo",
+                        "x": 273,
+                        "y": 217
+                    }
+                ]
+            },
+            {
+                "name": "Street",
+                "access_rules": [
+                    
+                ],
+                "sections": [
+                    {
+                        "name": "Trash",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SoHo",
+                        "x": 246,
+                        "y": 267
+                    }
+                ]
+            },
+            {
+                "name": "Gun Shop",
+                "access_rules": [
+                    "weapon_memo"
+                ],
+                "sections": [
+                    {
+                        "name": "North West Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "North East Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Behind Counter Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "South East Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Green Box",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Red Box",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shotgun Rack",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rifle Rack",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SoHo",
+                        "x": 196,
+                        "y": 217
+                    }
+                ]
+            },
+            {
+                "name": "Pharmacy",
+                "access_rules": [
+                    
+                ],
+                "sections": [
+                    {
+                        "name": "Back Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Far Right Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Left Shelf",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Back Shelf",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right Shelf",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Behind Counter",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Backroom Left Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Backroom Right Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SoHo",
+                        "x": 350,
+                        "y": 217
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hospital F1",
+        "access_rules": [
+            
+        ],
+        "children": [
+            {
+                "name": "Outisde",
+                "access_rules": [
+                    
+                ],
+                "sections": [
+                    {
+                        "name": "Maeda",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hospital_Ground",
+                        "x": 232,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Lobby",
+                "access_rules": [
+                    
+                ],
+                "sections": [
+                    {
+                        "name": "Closet",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hospital_Ground",
+                        "x": 232,
+                        "y": 305
+                    }
+                ]
+            },
+            {
+                "name": "Flashback Room",
+                "access_rules": [
+                    "fuse_1, fuse_2, fuse_3, blue_card_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Nurse",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hospital_Ground",
+                        "x": 332,
+                        "y": 305
+                    }
+                ]
+            },
+            {
+                "name": "Back Hall",
+                "access_rules": [
+                    "fuse_1, fuse_2, fuse_3, blue_card_key, green_card_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hospital_Ground",
+                        "x": 178,
+                        "y": 205
+                    }
+                ]
+            },
+            {
+                "name": "Nitrogen Storage",
+                "access_rules": [
+                    "fuse_1, fuse_2, fuse_3, blue_card_key, green_card_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "King Bacterium",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hospital_Ground",
+                        "x": 178,
+                        "y": 255
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hospital Basement",
+        "access_rules": [
+            
+        ],
+        "children": [
+            {
+                "name": "Collapsed Stairs",
+                "access_rules": [
+                    
+                ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hospital_Basement",
+                        "x": 410,
+                        "y": 293
+                    }
+                ]
+            },
+            {
+                "name": "Autopsy Room",
+                "access_rules": [
+                    "autopsy_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Left Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hospital_Basement",
+                        "x": 360,
+                        "y": 243
+                    }
+                ]
+            },
+            {
+                "name": "Clean Room",
+                "access_rules": [
+                    "autopsy_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Left Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sparkle",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hospital_Basement",
+                        "x": 360,
+                        "y": 195
+                    }
+                ]
+            },
+            {
+                "name": "Storage Room",
+                "access_rules": [
+                    
+                ],
+                "sections": [
+                    {
+                        "name": "Top Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bottom Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sparkle",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hospital_Basement",
+                        "x": 252,
+                        "y": 243
+                    }
+                ]
+            },
+            {
+                "name": "Morgue",
+                "access_rules": [
+                    
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hospital_Basement",
+                        "x": 148,
+                        "y": 293
+                    }
+                ]
+            },
+            {
+                "name": "Office",
+                "access_rules": [
+                    
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Drawer",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hospital_Basement",
+                        "x": 148,
+                        "y": 195
+                    }
+                ]
+            },
+            {
+                "name": "Back Hall",
+                "access_rules": [
+                    "blue_card_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hospital_Basement",
+                        "x": 198,
+                        "y": 145
+                    }
+                ]
+            },
+            {
+                "name": "Crematory",
+                "access_rules": [
+                    "blue_card_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sparkle",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Corpse",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hospital_Basement",
+                        "x": 252,
+                        "y": 195
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hospital F13",
+        "access_rules": [
+            "green_card_key"
+        ],
+        "children": [
+            {
+                "name": "Research lab",
+                "access_rules": [
+                    
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Counter",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shelf",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hospital_Floor13",
+                        "x": 245,
+                        "y": 251
+                    }
+                ]
+            },
+            {
+                "name": "Kennel",
+                "access_rules": [
+                    
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hospital_Floor13",
+                        "x": 245,
+                        "y": 201
+                    }
+                ]
+            },
+            {
+                "name": "Sperm Bank",
+                "access_rules": [
+                    
+                ],
+                "sections": [
+                    {
+                        "name": "South Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "North Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sparkle 1",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sparkle 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hospital_Floor13",
+                        "x": 245,
+                        "y": 151
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hospital Roof",
+        "children": [
+            {
+                "name": "Roof",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "Boss",
+                        "item_count": 1,
+                        "access_rules": [
+                            "green_card_key, elevator_key"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hospital_Roof",
+                        "x": 280,
+                        "y": 243
+                    }
+                ]
+            }      
+        ]
+    },
+    {
+        "name": "Chinatown Entrance",
+        "children": [
+            {
+                "name": "Entrance",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "Left Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Chinatown Entrance",
+                        "x": 280,
+                        "y": 258
+                    }
+                ]
+            },
+            {
+                "name": "Street",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "South Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "North Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Chinatown Entrance",
+                        "x": 280,
+                        "y": 208
+                    }
+                ]
+            },
+            {
+                "name": "Antique Shop",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shelf",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Chinatown Entrance",
+                        "x": 330,
+                        "y": 208
+                    }
+                ]
+            },
+            {
+                "name": "Sewer Entrance",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Maeda",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Chinatown Entrance",
+                        "x": 280,
+                        "y": 158
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sewers",
+        "children": [
+            {
+                "name": "A4",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 181,
+                        "y": 143
+                    }
+                ]
+            },
+            {
+                "name": "B1",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "North Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 30,
+                        "y": 192
+                    }
+                ]
+            },
+            {
+                "name": "B3",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 130,
+                        "y": 192
+                    }
+                ]
+            },
+            {
+                "name": "B6",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 280,
+                        "y": 192
+                    }
+                ]
+            },
+            {
+                "name": "C2",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 80,
+                        "y": 242
+                    }
+                ]
+            },
+            {
+                "name": "C6",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 280,
+                        "y": 242
+                    }
+                ]
+            },
+            {
+                "name": "D3",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 130,
+                        "y": 292
+                    }
+                ]
+            },
+            {
+                "name": "D8",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 380,
+                        "y": 292
+                    }
+                ]
+            },
+            {
+                "name": "D11",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 530,
+                        "y": 292
+                    }
+                ]
+            },
+            {
+                "name": "E4",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 180,
+                        "y": 342
+                    }
+                ]
+            },
+            {
+                "name": "E10",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 480,
+                        "y": 342
+                    }
+                ]
+            },
+            {
+                "name": "F9",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 430,
+                        "y": 392
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Subway",
+        "children": [
+            {
+                "name": "Sewer Catwalk",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Subway",
+                        "x": 231,
+                        "y": 430
+                    }
+                ]
+            },
+            {
+                "name": "Pump Catwalk",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Subway",
+                        "x": 231,
+                        "y": 380
+                    }
+                ]
+            },
+            {
+                "name": "Gator Room",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Subway",
+                        "x": 281,
+                        "y": 380
+                    }
+                ]
+            },
+            {
+                "name": "Pump Control Room",
+                "access_rules": [
+                                         
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Subway",
+                        "x": 281,
+                        "y": 330
+                    }
+                ]
+            },
+            {
+                "name": "Platform",
+                "access_rules": [
+                        "pump_key", "gate_key"                 
+                ],
+                "sections": [
+                    {
+                        "name": "Bench Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Save Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Exit Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Subway",
+                        "x": 281,
+                        "y": 230
+                    }
+                ]
+            },
+            {
+                "name": "Mole Tunnel",
+                "access_rules": [
+                    "pump_key", "gate_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Subway",
+                        "x": 231,
+                        "y": 180
+                    }
+                ]
+            },
+            {
+                "name": "Intersection",
+                "access_rules": [
+                    "pump_key", "gate_key"                                     
+                ],
+                "sections": [
+                    {
+                        "name": "Centipede",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Subway",
+                        "x": 331,
+                        "y": 130
+                    }
+                ]
+            },
+            {
+                "name": "Subway Car",
+                "access_rules": [
+                    "pump_key", "gate_key"                      
+                ],
+                "sections": [
+                    {
+                        "name": "Left Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bottom Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Subway",
+                        "x": 381,
+                        "y": 130
+                    }
+                ]
+            },
+            {
+                "name": "Intersection",
+                "access_rules": [
+                    "pump_key", "gate_key"                          
+                ],
+                "sections": [
+                    {
+                        "name": "Cop",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Subway",
+                        "x": 331,
+                        "y": 80
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Warehouse",
+        "children": [
+            {
+                "name": "Outside",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Hidden Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Warehouse",
+                        "x": 247,
+                        "y": 308
+                    }
+                ]
+            },
+            {
+                "name": "Entrance",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Warehouse",
+                        "x": 247,
+                        "y": 258    
+                    }
+                ]
+            },
+            {
+                "name": "Catwalk Room",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sparkle",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Warehouse",
+                        "x": 297,
+                        "y": 208    
+                    }
+                ]
+            },
+            {
+                "name": "Save Room",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Top Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bottom Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest after ladder",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Warehouse",
+                        "x": 297,
+                        "y": 258    
+                    }
+                ]
+            },
+            {
+                "name": "Before Decent",
+                "access_rules": [
+                    "warehouse_key"            
+                ],
+                "sections": [
+                    {
+                        "name": "Top left Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Top right Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bottom Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Warehouse",
+                        "x": 197,
+                        "y": 208    
+                    }
+                ]
+            },
+            {
+                "name": "Boiler Room",
+                "access_rules": [
+                    "warehouse_key"            
+                ],
+                "sections": [
+                    {
+                        "name": "Giant Crab",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sparkle",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Warehouse",
+                        "x": 197,
+                        "y": 158    
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Museum Floor 1",
+        "children": [
+            {
+                "name": "Compass Room",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Offscreen Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor1",
+                        "x": 234,
+                        "y": 333
+                    }
+                ]
+            },
+            {
+                "name": "Skull Room",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor1",
+                        "x": 184,
+                        "y": 333    
+                    }
+                ]
+            },
+            {
+                "name": "Troodon Hall",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Left Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor1",
+                        "x": 184,
+                        "y": 283    
+                    }
+                ]
+            },
+            {
+                "name": "Storage Hall",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor1",
+                        "x": 334,
+                        "y": 283    
+                    }
+                ]
+            },
+            {
+                "name": "Storage Room",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "SE Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "South Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "North Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hidden Left Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hidden Right Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor1",
+                        "x": 384,
+                        "y": 283    
+                    }
+                ]
+            },
+            {
+                "name": "Tribal Staircase",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor1",
+                        "x": 184,
+                        "y": 183    
+                    }
+                ]
+            },
+            {
+                "name": "Stone Head Room",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor1",
+                        "x": 171,
+                        "y": 109    
+                    }
+                ]
+            },
+            {
+                "name": "Fire Escape",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor1",
+                        "x": 184,
+                        "y": 83    
+                    }
+                ]
+            },
+            {
+                "name": "T-Rex Room",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Left Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "T-Rex Drop",
+                        "item_count": 1,
+                        "access_rules":["klamp_key"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor1",
+                        "x": 234,
+                        "y": 283
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Museum Floor 2",
+        "children": [
+            {
+                "name": "Gemstone Staircase",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Left Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor2",
+                        "x": 192,
+                        "y": 204
+                    }
+                ]
+            },
+            {
+                "name": "Festive Room",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor2",
+                        "x": 192,
+                        "y": 254
+                    }
+                ]
+            },
+            {
+                "name": "Security Room",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor2",
+                        "x": 242,
+                        "y": 154
+                    }
+                ]
+            },
+            {
+                "name": "Security Storage fl4",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "SE Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "SW Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "NW Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Center Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor2",
+                        "x": 292,
+                        "y": 154
+                    }
+                ]
+            },
+            {
+                "name": "Museum Shop",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Top Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor2",
+                        "x": 292,
+                        "y": 304
+                    }
+                ]
+            },
+            {
+                "name": "Klamp's Office",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Maeda",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Klamp",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor2",
+                        "x": 342,
+                        "y": 354
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Museum Floor 3",
+        "children": [
+            {
+                "name": "Fire Escape",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor3",
+                        "x": 207,
+                        "y": 106
+                    }
+                ]
+            },
+            {
+                "name": "Stegosaurus Room",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor3",
+                        "x": 257,
+                        "y": 356
+                    }
+                ]
+            },
+            {
+                "name": "Pterodactyl Ambush",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor3",
+                        "x": 257,
+                        "y": 256
+                    }
+                ]
+            },
+            {
+                "name": "Triceratops Room",
+                "access_rules": [
+                    "klamp_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Triceratops",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor3",
+                        "x": 207,
+                        "y": 306
+                    }
+                ]
+            },
+            {
+                "name": "Broken Display",
+                "access_rules": [
+                    "klamp_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor3",
+                        "x": 207,
+                        "y": 356
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Museum Floor 4",
+        "children": [
+            {
+                "name": "Forgotten Landing",
+                "access_rules": [
+                                        
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor4",
+                        "x": 263,
+                        "y": 267
+                    }
+                ]
+            },
+            {
+                "name": "Final Approach",
+                "access_rules": [
+                      "hamaya,mayoke,narita"                  
+                ],
+                "sections": [
+                    {
+                        "name": "Left Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum_Floor4",
+                        "x": 263,
+                        "y": 199
+                    }
+                ]
+            }     
+        ]
+    }
+]

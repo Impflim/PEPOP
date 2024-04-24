@@ -1,0 +1,117 @@
+//more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
+[
+    {
+        "name": "hall_floor1",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/hall/floor1.png"
+    },
+    {
+        "name": "hall_basement",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/hall/basement.png"
+    },
+    {
+        "name": "hall_sewer",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/hall/sewer.png"
+    },
+    {
+        "name": "NYPD_floor1",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/nypd/floor1.png"
+    },
+    {
+        "name": "Park_Entrance",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/park/park entrance.png"
+    },
+    {
+        "name": "Park_Back",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/park/park back.png"
+    },
+    {
+        "name": "SoHo",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/soho/soho.png"
+    },
+    {
+        "name": "Hospital_Ground",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/hospital/ground.png"
+    },
+    {
+        "name": "Hospital_Basement",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/hospital/basement.png"
+    },
+    {
+        "name": "Hospital_Floor13",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/hospital/floor 13.png"
+    },
+    {
+        "name": "Hospital_Roof",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/hospital/roof.png"
+    },
+    {
+        "name": "Chinatown Entrance",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/chinatown/entrance.png"
+    },
+    {
+        "name": "Sewers",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/chinatown/sewers.png"
+    },
+    {
+        "name": "Subway",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/chinatown/subway.png"
+    },
+    {
+        "name": "Warehouse",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/warehouse/warehouse.png"
+    },
+    {
+        "name": "Museum_Floor1",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/museum/museum floor1.png"
+    },
+    {
+        "name": "Museum_Floor2",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/museum/museum floor2.png"
+    },
+    {
+        "name": "Museum_Floor3",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/museum/museum floor3.png"
+    },
+    {
+        "name": "Museum_Floor4",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/museum/museum floor4.png"
+    }
+]
